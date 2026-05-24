@@ -1,0 +1,5 @@
+name = "Jollywatt"
+uuid = "b80bb9cb-3f15-416c-ac4d-e6bebded5d82"
+repo = "git@github.com:Jollywatt/JuliaRegistry.git"
+
+[packages]
