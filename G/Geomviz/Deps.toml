@@ -1,0 +1,7 @@
+[0]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Pickle = "fbb45041-c46e-462f-888f-7c521cafbc2c"
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
+ReplMaker = "b873ce64-0db9-51f5-a568-4457d8e49576"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
+StyledStrings = "f489334b-da3d-4c2e-b8f0-e476e12c162b"

@@ -5,3 +5,4 @@ repo = "git@github.com:Jollywatt/JuliaRegistry.git"
 [packages]
 11bbe1ca-eae6-48c2-942c-9f17e43de0f0 = { name = "GeometricAlgebra", path = "G/GeometricAlgebra" }
 8409be77-1e4d-4950-82ec-d95e11b31402 = { name = "GeometricAlgebraModels", path = "G/GeometricAlgebraModels" }
+b876c574-87dc-4bec-8a9b-542e2b22a39c = { name = "Geomviz", path = "G/Geomviz" }
