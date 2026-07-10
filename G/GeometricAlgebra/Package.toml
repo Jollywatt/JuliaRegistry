@@ -1,3 +1,3 @@
 name = "GeometricAlgebra"
 uuid = "11bbe1ca-eae6-48c2-942c-9f17e43de0f0"
-repo = "git@github.com:Jollywatt/GeometricAlgebra.jl"
+repo = "https://github.com/Jollywatt/GeometricAlgebra.jl.git"

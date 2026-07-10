@@ -1,6 +1,6 @@
 name = "Jollywatt"
 uuid = "b80bb9cb-3f15-416c-ac4d-e6bebded5d82"
-repo = "git@github.com:Jollywatt/JuliaRegistry.git"
+repo = "https://github.com/Jollywatt/JuliaRegistry.git"
 
 [packages]
 11bbe1ca-eae6-48c2-942c-9f17e43de0f0 = { name = "GeometricAlgebra", path = "G/GeometricAlgebra" }
